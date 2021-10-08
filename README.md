@@ -16,5 +16,7 @@
   <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg">
   <img align="center" alt="Luiz-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ 
+ ![Snake animation](https://github.com/MATOSLuiz/MATOSLuiz/blob/output/github-contribution-grid-snake.svg)
 
 
