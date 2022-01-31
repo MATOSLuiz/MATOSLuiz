@@ -1,4 +1,4 @@
-## Oiii eu sou o Luiz Henrique estudante de programação e amante da tecnologia!
+## Oiii eu sou o Luiz Henrique estudante e amante da tecnologia!
 <div>
   <a href="https://github.com/MATOSLuiz">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MATOSLuiz&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
