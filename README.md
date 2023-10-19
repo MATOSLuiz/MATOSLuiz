@@ -13,7 +13,7 @@
   <div>
  <h2> Aprendendo:
   
-  <img align="center" alt="Luiz-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Luiz-vue" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
   
  
