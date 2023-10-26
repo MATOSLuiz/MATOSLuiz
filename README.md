@@ -7,13 +7,6 @@
 </div>
   
 
-  
-## Contact 
- 
-<div>
-  
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5511916514882"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
 </div>
  <h2> Trabalhando com:
   <img align="center" alt="Luiz-PHP" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
